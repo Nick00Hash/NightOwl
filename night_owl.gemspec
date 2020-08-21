@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = "isDark returns true if dark outside, isLight returns true if light outside"
   s.authors     = ["Nicholas Ashley, Alex Bernstein"]
   s.email       = 'Nashley3785@gmail.com, alexbernstein7170@gmail.com'
-  s.files       = ["lib/night_owl.rb"]
+  s.files       = ["lib/night_owl.rb", "lib/night_owl/determine_location.rb", "lib/night_owl/determine_sunrise_sunset.rb"]
   s.homepage    =
     'https://rubygems.org/gems/night_owl'
   s.license       = 'MIT'
