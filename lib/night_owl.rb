@@ -6,9 +6,9 @@ class NightOwl
   def self.hi
     puts "Hello World"
   end
-
+  
   def isDay?
-    
+  
   end
 
   def isNight?
