@@ -3,7 +3,6 @@ require 'net/http'
 require 'json'
 
 class Daylight
-  API_KEY = "cd20ada7a9e81ce0a030cf0b5286faed"
 
   def test_daylight
     puts "testing sunrise/set"
